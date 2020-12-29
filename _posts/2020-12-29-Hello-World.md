@@ -1,6 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Testing Post!
+tags: testing
+category: testing
+date: 2020-12-29 22:22 +0000
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
